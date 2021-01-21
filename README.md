@@ -1,6 +1,6 @@
 # flime
 
-A new Flutter package project.
+A simple UI component with iOS-like shadow and radius.
 
 ## Getting Started
 
